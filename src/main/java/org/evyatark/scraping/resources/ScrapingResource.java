@@ -14,3 +14,5 @@ public class ScrapingResource {
         return "hello";
     }
 }
+
+// see https://github.com/saharsh-samples/sample-quarkus-app/tree/master/src/main/java/org/saharsh/samples/quarkus/service on how to instantiate a specific implementation of an interface
